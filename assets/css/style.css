@@ -1,0 +1,11 @@
+﻿.casebmanager  { position:fixed; bottom:0; left:0; width:100%;background-color: #f4f6f7;
+margin:0;
+border-top: 1px solid rgba(0,0,0,0.15);
+-moz-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
+-webkit-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
+box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
+margin: 0;padding-left: 5px;}
+.casebmanager .btn-group {
+margin-top: 5px;
+}
+.casebmanager .pull-right p { font-size:12px; color:#666; margin-right:20px;}
