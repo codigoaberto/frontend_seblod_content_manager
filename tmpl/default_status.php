@@ -30,7 +30,7 @@ if ( JCck::on() ) {
 			<?php echo $label; ?>
 		</button>
 	</div>
-	<div class="btn-group cck-quickadd">
+	<div class="btn-group">
 		<a href="/index.php/content-management" class="btn btn-small<?php echo $class; ?>">
 			<i class="icon-list-view"></i>
 			<?php echo JText::_('Content Management'); ?>
