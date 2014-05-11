@@ -31,7 +31,7 @@ if ( JCck::on() ) {
 		</button>
 	</div>
 	<div class="btn-group">
-		<a href="<?php echo JURI::base();?>/index.php/content-management" class="btn btn-small<?php echo $class; ?>">
+		<a href="<?php echo JURI::base();?>index.php/content-management" class="btn btn-small<?php echo $class; ?>">
 			<i class="icon-list-view"></i>
 			<?php echo JText::_('Content Management'); ?>
 		</a>
